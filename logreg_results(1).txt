@@ -1,0 +1,33 @@
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.96      0.96      0.96     95682
+           1       0.97      0.97      0.97    153940
+
+    accuracy                           0.97    249622
+   macro avg       0.97      0.97      0.97    249622
+weighted avg       0.97      0.97      0.97    249622
+
+Top 10 Important Features (Semantics):
+[('yeah', 18.998733079608748), ('oh', 17.20426522121602), ('mm', 16.365236839485412), ('erm', 13.819225075173623), ('really', 13.431554835382505), ('yes', 13.326239124099303), ('er', 13.281318688923461), ('ah', 10.53380355370947), ('actually', 10.316469412431866), ('probably', 10.017918922701671)]
+Error Analysis (Mislabeled Sentences):
+Sentence: like an I ate all the pie smile
+Actual: 1, Predicted: 0
+Sentence: outside and then I did further maths as well
+Actual: 0, Predicted: 1
+Sentence: I did n't want --UNCLEARWORD we 've got so much going on at the moment
+Actual: 0, Predicted: 1
+Sentence: to develop it or find it early on
+Actual: 1, Predicted: 0
+Sentence: spend like a year like going through all this hassle you know ?
+Actual: 0, Predicted: 1
+Sentence: we went there that 's right
+Actual: 0, Predicted: 1
+Sentence: you get double chips with the bigger one as well
+Actual: 0, Predicted: 1
+Sentence: wow that 's such a good idea
+Actual: 1, Predicted: 0
+Sentence: about you and it turns out you 're fucking fine
+Actual: 1, Predicted: 0
+Sentence: he 's so cute is n't he ? he 's so cute
+Actual: 0, Predicted: 1

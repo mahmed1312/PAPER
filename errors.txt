@@ -1,0 +1,45 @@
+Sentence, True Label, Predicted Label
+'had Naked Wine before we 've given them once before', 1, 0
+'I find it hard to believe if you 're having like a proper healthy diet then it would be better than that or as good as that', 0, 1
+'cooch up cooch up like', 0, 1
+'I 've got about two questions right out of', 1, 0
+'no more', 1, 0
+'and before she 's asked any questions like it 's Mother Theresa', 0, 1
+'sorta liked it', 0, 1
+'and they ca n't do that for you like the wine is you know for whatever reason it necessitates being in this particular bottle shape or whatever', 0, 1
+'because they 're so weird', 0, 1
+'I have n't tasted what it 's like', 1, 0
+'that 's cos I 'm sure I asked is he British ? and you guys said yes at the beginning', 1, 0
+'but I did n't at least I did n't do loads of them so that we did n't have to have loads of yucky sprout leftovers', 0, 1
+'thank you very much --ANONnameF', 1, 0
+'okay I thought it was a person', 0, 1
+'they 're nice like bits', 0, 1
+'I guessed right', 1, 0
+'ca n't go wrong with macadamia', 1, 0
+'there are more hooray we can top the jar up', 1, 0
+'the the cork 's like the vulnerable thing is n't it ? that 's like the thing', 0, 1
+'he he he', 0, 1
+'been surpassed twice now', 1, 0
+'wait it should go that way should n't it ?', 0, 1
+'it 's like a first person shooter', 0, 1
+'if you have to choose any poo --UNCLEARWORD to be in like', 0, 1
+'I do n't think it 's overly', 1, 0
+'it was good right I 'm gon na move some of these things', 1, 0
+'I did n't think I 'd be guessing chocolate monkey at anything but', 0, 1
+'I do n't think I made it big enough to go over your other socks is the thing I think I 've made it --UNCLEARWORD for your foot', 1, 0
+'if you have like truffles dipped in a cheese fondue', 1, 0
+'okay', 0, 1
+'I think it was like your eighteenth or something like', 0, 1
+'all organic things it seems have gone like', 0, 1
+'pond scum wine got a wine that brands itself as like having a taste of burnt toast and things like that', 1, 0
+'du n no I', 1, 0
+'that bottle opener reminds me of something you might find in nanny and grandad 's cabinet like', 0, 1
+'if you if you do n't think you 'll wear them then I 'll try and like sell them on Ebay or something I think --UNCLEARWORD', 0, 1
+'ones that like', 1, 0
+'no no idea', 0, 1
+'right presents', 0, 1
+'calling twice', 1, 0
+'set in the fantasy land of Hyrule and centres on a boy named Link who I 've mentioned about seven times this holiday no more than that so many more than that I 've sang the songs', 0, 1
+'no tempted to make mead for --ANONnameF', 1, 0
+'no perfect', 0, 1
+'like chocolate and mascarpone 's okay but', 0, 1

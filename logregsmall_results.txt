@@ -1,0 +1,147 @@
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.89      0.93      0.91       358
+           1       0.94      0.91      0.92       451
+
+    accuracy                           0.92       809
+   macro avg       0.92      0.92      0.92       809
+weighted avg       0.92      0.92      0.92       809
+
+Top 10 Important Features (Semantics):
+[('yeah', 5.7939228124201145), ('mm', 5.696936693561298), ('oh', 5.335240815360873), ('ah', 4.388461423079057), ('er', 4.376836902794819), ('just', 3.9244287952773163), ('erm', 3.795850053757228), ('no', 3.640067854129158), ('really', 3.6152905491161857), ('well', 3.1964661387935345)]
+Error Analysis (Mislabeled Sentences):
+Sentence: it 'd be much better
+Actual: 1, Predicted: 0
+Sentence: no perfect
+Actual: 0, Predicted: 1
+Sentence: but I did n't at least I did n't do loads of them so that we did n't have to have loads of yucky sprout leftovers
+Actual: 0, Predicted: 1
+Sentence: thank you very much --ANONnameF
+Actual: 1, Predicted: 0
+Sentence: like woo
+Actual: 1, Predicted: 0
+Sentence: if you have like truffles dipped in a cheese fondue
+Actual: 1, Predicted: 0
+Sentence: I usually have greens every day and have n't had so many of them recently
+Actual: 1, Predicted: 0
+Sentence: I like hidden healthiness hidden healthiness works
+Actual: 0, Predicted: 1
+Sentence: there are more hooray we can top the jar up
+Actual: 1, Predicted: 0
+Sentence: and they ca n't do that for you like the wine is you know for whatever reason it necessitates being in this particular bottle shape or whatever
+Actual: 0, Predicted: 1
+Sentence: not all of them like
+Actual: 1, Predicted: 0
+Sentence: it was before like
+Actual: 1, Predicted: 0
+Sentence: they probably would n't work
+Actual: 1, Predicted: 0
+Sentence: but it 's okay for me to eat
+Actual: 0, Predicted: 1
+Sentence: it 's called it 's called Pitfall Pitfall and it sold more than four million copies
+Actual: 0, Predicted: 1
+Sentence: I have n't tasted what it 's like
+Actual: 1, Predicted: 0
+Sentence: and that 's a eucalyptus as well
+Actual: 0, Predicted: 1
+Sentence: if you have frozen stuff in it as well that does n't quite
+Actual: 0, Predicted: 1
+Sentence: calling twice
+Actual: 1, Predicted: 0
+Sentence: we could play it now in fact in a minute once we 've cleared away all this craziness
+Actual: 0, Predicted: 1
+Sentence: I do n't think it 's overly
+Actual: 1, Predicted: 0
+Sentence: we had a barbecue and there was no ketchup
+Actual: 0, Predicted: 1
+Sentence: right presents
+Actual: 0, Predicted: 1
+Sentence: plus I already have a bag of them
+Actual: 1, Predicted: 0
+Sentence: eh
+Actual: 1, Predicted: 0
+Sentence: they 're like anti mead I suppose it 's sweet I did n't think of the sweet factor
+Actual: 1, Predicted: 0
+Sentence: the batch should be okay
+Actual: 0, Predicted: 1
+Sentence: maybe you need to build yourselves up
+Actual: 1, Predicted: 0
+Sentence: no ketchup
+Actual: 0, Predicted: 1
+Sentence: ones that like
+Actual: 1, Predicted: 0
+Sentence: --ANONnameM this is weird you 're still eating
+Actual: 1, Predicted: 0
+Sentence: like chocolate and mascarpone 's okay but
+Actual: 0, Predicted: 1
+Sentence: great right now
+Actual: 0, Predicted: 1
+Sentence: thank you very much
+Actual: 1, Predicted: 0
+Sentence: this one 's about the right --UNCLEARWORD
+Actual: 0, Predicted: 1
+Sentence: and somehow allegedly did n't see anything I I
+Actual: 1, Predicted: 0
+Sentence: pond scum wine got a wine that brands itself as like having a taste of burnt toast and things like that
+Actual: 1, Predicted: 0
+Sentence: du n no I
+Actual: 1, Predicted: 0
+Sentence: is he in the cabinet now ? we were like no
+Actual: 0, Predicted: 1
+Sentence: I get behind those definitely
+Actual: 1, Predicted: 0
+Sentence: kinda taste like which is good
+Actual: 1, Predicted: 0
+Sentence: you 're much more likely to wear it at work than me
+Actual: 1, Predicted: 0
+Sentence: okay
+Actual: 1, Predicted: 0
+Sentence: out that 's not right
+Actual: 0, Predicted: 1
+Sentence: uhu I knew the --UNCLEARWORD
+Actual: 1, Predicted: 0
+Sentence: --UNCLEARWORD normally did the button mashing
+Actual: 1, Predicted: 0
+Sentence: I do n't think he was taking a bath especially if it 's in the middle of the room
+Actual: 1, Predicted: 0
+Sentence: uhu holly and what about this one ?
+Actual: 1, Predicted: 0
+Sentence: we 're round there quite a bit
+Actual: 0, Predicted: 1
+Sentence: this is blatantly socks
+Actual: 1, Predicted: 0
+Sentence: no no idea
+Actual: 0, Predicted: 1
+Sentence: it 's not from the pews is it ? it 's not from the pews
+Actual: 0, Predicted: 1
+Sentence: I 'm gon na put some on right now they 're lovely
+Actual: 0, Predicted: 1
+Sentence: I do n't even remember doing this
+Actual: 1, Predicted: 0
+Sentence: if you 're if you 're having not much anyway
+Actual: 1, Predicted: 0
+Sentence: right I 'll leave the sherry out here cos I might have some sherry at some point
+Actual: 1, Predicted: 0
+Sentence: --ANONnameF 's feet are like embedded with special industrial diamond --UNCLEARWORD
+Actual: 1, Predicted: 0
+Sentence: it 's an important like break in my day to like
+Actual: 0, Predicted: 1
+Sentence: I think that 's the right measurement
+Actual: 0, Predicted: 1
+Sentence: well you ca n't think if you 're having nice wine coming off small estates you 're not thinking any more about what a like if you 're having Jacob Creek or bullshit
+Actual: 1, Predicted: 0
+Sentence: blatantly socks
+Actual: 1, Predicted: 0
+Sentence: definitely
+Actual: 1, Predicted: 0
+Sentence: like wine ?
+Actual: 1, Predicted: 0
+Sentence: I can see for me they 're okay but I feel they are quite tight in the width and I know
+Actual: 0, Predicted: 1
+Sentence: slightly darker and
+Actual: 1, Predicted: 0
+Sentence: wait it should go that way should n't it ?
+Actual: 0, Predicted: 1
+Sentence: aha
+Actual: 1, Predicted: 0
